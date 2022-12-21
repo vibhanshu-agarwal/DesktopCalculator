@@ -1,0 +1,117 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Desktop Calculator/*
+!/Desktop Calculator/task/
+/Desktop Calculator/task/*
+!/Desktop Calculator/task/src/
+!/Desktop Calculator/task/build.gradle
+!/Desktop Calculator/task/build.gradle.kts
+
+# Project exclude paths
+/Topics/Abstract class/About abstract classes/out/
+/Topics/Abstract class/About abstract classes/out/production/classes/
+/Topics/Abstract class/Correct statements/out/
+/Topics/Abstract class/Correct statements/out/production/classes/
+/Topics/Abstract class/Incorrect declaration/out/
+/Topics/Abstract class/Incorrect declaration/out/production/classes/
+/Topics/Abstract class/Theory/out/
+/Topics/Abstract class/Theory/out/production/classes/
+/Topics/Abstract class/Users and WebSites/out/
+/Topics/Abstract class/Users and WebSites/out/production/classes/
+/Topics/Anonymous classes/And always these rules/out/
+/Topics/Anonymous classes/And always these rules/out/production/classes/
+/Topics/Anonymous classes/Find a correct syntax/out/
+/Topics/Anonymous classes/Find a correct syntax/out/production/classes/
+/Topics/Anonymous classes/Implement Runnable/out/
+/Topics/Anonymous classes/Implement Runnable/out/production/classes/
+/Topics/Anonymous classes/Single method/out/
+/Topics/Anonymous classes/Single method/out/production/classes/
+/Topics/Anonymous classes/Theory/out/
+/Topics/Anonymous classes/Theory/out/production/classes/
+/Topics/Anonymous classes properties/Calculator/out/
+/Topics/Anonymous classes properties/Calculator/out/production/classes/
+/Topics/Anonymous classes properties/Create instance/out/
+/Topics/Anonymous classes properties/Create instance/out/production/classes/
+/Topics/Anonymous classes properties/Iterations/out/
+/Topics/Anonymous classes properties/Iterations/out/production/classes/
+/Topics/Anonymous classes properties/Restrictions/out/
+/Topics/Anonymous classes properties/Restrictions/out/production/classes/
+/Topics/Anonymous classes properties/Theory/out/
+/Topics/Anonymous classes properties/Theory/out/production/classes/
+/Topics/Custom threads/Message notifier as a thread/out/
+/Topics/Custom threads/Message notifier as a thread/out/production/classes/
+/Topics/Custom threads/Multiple threads/out/
+/Topics/Custom threads/Multiple threads/out/production/classes/
+/Topics/Custom threads/Starting runnables/out/
+/Topics/Custom threads/Starting runnables/out/production/classes/
+/Topics/Custom threads/Statements/out/
+/Topics/Custom threads/Statements/out/production/classes/
+/Topics/Custom threads/The order of lines/out/
+/Topics/Custom threads/The order of lines/out/production/classes/
+/Topics/Custom threads/Theory/out/
+/Topics/Custom threads/Theory/out/production/classes/
+/Topics/Custom threads/Writing a thread for printing numbers/out/
+/Topics/Custom threads/Writing a thread for printing numbers/out/production/classes/
+/Topics/Default methods/Diamond problem/out/
+/Topics/Default methods/Diamond problem/out/production/classes/
+/Topics/Default methods/Implement a default method/out/
+/Topics/Default methods/Implement a default method/out/production/classes/
+/Topics/Default methods/Resolve a diamond problem/out/
+/Topics/Default methods/Resolve a diamond problem/out/production/classes/
+/Topics/Default methods/Theory/out/
+/Topics/Default methods/Theory/out/production/classes/
+/Topics/Functional interfaces/An invalid way to create a functional interface/out/
+/Topics/Functional interfaces/An invalid way to create a functional interface/out/production/classes/
+/Topics/Functional interfaces/Ternary predicate/out/
+/Topics/Functional interfaces/Ternary predicate/out/production/classes/
+/Topics/Functional interfaces/Theory/out/
+/Topics/Functional interfaces/Theory/out/production/classes/
+/Topics/Lambda expressions/Apply function to all elements/out/
+/Topics/Lambda expressions/Apply function to all elements/out/production/classes/
+/Topics/Lambda expressions/Higher-order functions/out/
+/Topics/Lambda expressions/Higher-order functions/out/production/classes/
+/Topics/Lambda expressions/Max of two integers/out/
+/Topics/Lambda expressions/Max of two integers/out/production/classes/
+/Topics/Lambda expressions/Next even number/out/
+/Topics/Lambda expressions/Next even number/out/production/classes/
+/Topics/Lambda expressions/Statements/out/
+/Topics/Lambda expressions/Statements/out/production/classes/
+/Topics/Lambda expressions/Theory/out/
+/Topics/Lambda expressions/Theory/out/production/classes/
+/Topics/Method references/Ascending and descending sorting/out/
+/Topics/Method references/Ascending and descending sorting/out/production/classes/
+/Topics/Method references/Syntax of method references/out/
+/Topics/Method references/Syntax of method references/out/production/classes/
+/Topics/Method references/Theory/out/
+/Topics/Method references/Theory/out/production/classes/
+/Topics/Stack/Methods/out/
+/Topics/Stack/Methods/out/production/classes/
+/Topics/Stack/Stack implementation/out/
+/Topics/Stack/Stack implementation/out/production/classes/
+/Topics/Stack/The LIFO principle in action/out/
+/Topics/Stack/The LIFO principle in action/out/production/classes/
+/Topics/Stack/Theory/out/
+/Topics/Stack/Theory/out/production/classes/
+/Topics/Stack/Using deque/out/
+/Topics/Stack/Using deque/out/production/classes/
+/Topics/Threads as objects/Counting threads/out/
+/Topics/Threads as objects/Counting threads/out/production/classes/
+/Topics/Threads as objects/Is thread daemon/out/
+/Topics/Threads as objects/Is thread daemon/out/production/classes/
+/Topics/Threads as objects/Theory/out/
+/Topics/Threads as objects/Theory/out/production/classes/
+/Topics/Threads as objects/Thread name/out/
+/Topics/Threads as objects/Thread name/out/production/classes/
